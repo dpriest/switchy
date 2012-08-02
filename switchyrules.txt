@@ -1,0 +1,18 @@
+; Summary: Dpriest Rule List
+; Author: Dpriest (wenhaoz100@gmail.com)
+; Date: 2012-08-02
+
+#BEGIN
+
+[freegate]
+*://*.blogspot.com/*
+*://*.wordpress.org/*
+*://twitter.com/*
+*://*.scribd.com/*
+
+[psiphon3]
+*://*.2shared.com/*
+*://*.douban.com/*
+*://*.csdn.net/*
+
+#END
